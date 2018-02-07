@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Do You Know Morocco?</string>
+    <string name="question1">Where is Morocco?</string>
+    <string name="question2">It was the first country to…</string>
+    <string name="question3">Is it an Arab country?</string>
+    <string name="question4">It is home to the oldest university…</string>
+    <string name="question5">Which of these behaviors isn\'t punishable by law?</string>
+    <string name="question6">What are the colors of its flag?</string>
+    <string name="question7">Was it colonized by the British?</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="answer1_1">Middle East</string>
+    <string name="answer1_2">North Africa</string>
+    <string name="answer2_1">recognize the independence of the USA</string>
+    <string name="answer2_2">export cannabis</string>
+    <string name="answer3_1">Yes</string>
+    <string name="answer3_2">No</string>
+    <string name="answer3_3">Kind of</string>
+    <string name="answer4_1">in the world</string>
+    <string name="answer4_2">in its region</string>
+    <string name="answer5_1">Intercourse before marriage</string>
+    <string name="answer5_2">Eating in public</string>
+    <string name="answer5_3">Marital rape</string>
+    <string name="answer6_1">Red and green</string>
+    <string name="answer6_2">Red, green and Yellow</string>
+    <string name="answer7_1">Yes</string>
+    <string name="answer7_2">No</string>
+    <string name="submit">submit</string>
+    <string name="end">end</string>
+    <string name="start">start</string>
+    <string name="first_name">Your first name</string>
+    <string name="body_text">Let\'s see what you know about Morocco!</string>
+    <string name="hello">Hello</string>
+    <string name="winner_1">Are you sure you\'re not Moroccan? *o*</string>
+    <string name="winner_2">You do know Morocco!</string>
+    <string name="winner_3">Time to dive into Wikipedia!</string>
+    <string name="filler">_</string>
+
+
+</resources>
